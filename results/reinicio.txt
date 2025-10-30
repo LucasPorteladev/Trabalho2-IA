@@ -1,0 +1,2405 @@
+Execução 1
+
+TABULEIRO INICIAL:
+. . . . . . . .
+. . . . . . Q Q
+Q . Q . . . . .
+. Q . Q . . . .
+. . . . . . . .
+. . . . . Q . .
+. . . . Q . . .
+. . . . . . . .
+
+TABULEIRO FINAL:
+. . Q . . . . .
+. . . . Q . . .
+. Q . . . . . .
+. . . . . . . Q
+. . . . . Q . .
+. . . Q . . . .
+. . . . . . Q .
+Q . . . . . . .
+
+TEMPO: 0.0384  CONFLITO: 7472  REINICIO: 23
+
+Execução 2
+
+TABULEIRO INICIAL:
+. . . . . Q . .
+. . . . . . . .
+. . . . Q . . .
+. . . . . . Q Q
+. . Q Q . . . .
+. . . . . . . .
+Q Q . . . . . .
+. . . . . . . .
+
+TABULEIRO FINAL:
+. . . . . Q . .
+. . Q . . . . .
+. . . . Q . . .
+. . . . . . . Q
+Q . . . . . . .
+. . . Q . . . .
+. Q . . . . . .
+. . . . . . Q .
+
+TEMPO: 0.0030  CONFLITO: 281  REINICIO: 0
+
+Execução 3
+
+TABULEIRO INICIAL:
+Q . Q Q . . . .
+. . . . . Q . .
+. . . . . . . .
+. . . . . . Q Q
+. . . . Q . . .
+. . . . . . . .
+. Q . . . . . .
+. . . . . . . .
+
+TABULEIRO FINAL:
+. . . Q . . . .
+. . . . . . . Q
+Q . . . . . . .
+. . Q . . . . .
+. . . . . Q . .
+. Q . . . . . .
+. . . . . . Q .
+. . . . Q . . .
+
+TEMPO: 0.0110  CONFLITO: 1630  REINICIO: 5
+
+Execução 4
+
+TABULEIRO INICIAL:
+. . . . . . . .
+. . . . . . . .
+. . Q . . . . .
+. . . . . . . .
+. Q . . . Q . .
+. . . Q . . . .
+Q . . . Q . Q Q
+. . . . . . . .
+
+TABULEIRO FINAL:
+. . . . . Q . .
+. . . . . . . Q
+. Q . . . . . .
+. . . Q . . . .
+Q . . . . . . .
+. . . . . . Q .
+. . . . Q . . .
+. . Q . . . . .
+
+TEMPO: 0.0020  CONFLITO: 393  REINICIO: 0
+
+Execução 5
+
+TABULEIRO INICIAL:
+Q . . . . . . .
+. . . . . . . .
+. . . . . . . Q
+. . . Q . . Q .
+. . . . . . . .
+. Q Q . Q . . .
+. . . . . . . .
+. . . . . Q . .
+
+TABULEIRO FINAL:
+. . . . Q . . .
+. Q . . . . . .
+. . . . . . . Q
+Q . . . . . . .
+. . . Q . . . .
+. . . . . . Q .
+. . Q . . . . .
+. . . . . Q . .
+
+TEMPO: 0.0030  CONFLITO: 505  REINICIO: 0
+
+Execução 6
+
+TABULEIRO INICIAL:
+. . . . . . . Q
+. . Q . Q . . .
+. . . . . . . .
+. . . . . . . .
+. . . Q . . . .
+. . . . . . . .
+Q . . . . Q Q .
+. Q . . . . . .
+
+TABULEIRO FINAL:
+. Q . . . . . .
+. . . . . . Q .
+. . . . Q . . .
+. . . . . . . Q
+Q . . . . . . .
+. . . Q . . . .
+. . . . . Q . .
+. . Q . . . . .
+
+TEMPO: 0.0110  CONFLITO: 1461  REINICIO: 4
+
+Execução 7
+
+TABULEIRO INICIAL:
+. . . . Q . . Q
+. . . . . Q . .
+. . . Q . . . .
+Q . . . . . . .
+. . Q . . . . .
+. Q . . . . . .
+. . . . . . Q .
+. . . . . . . .
+
+TABULEIRO FINAL:
+. . . . Q . . .
+Q . . . . . . .
+. . . Q . . . .
+. . . . . Q . .
+. . . . . . . Q
+. Q . . . . . .
+. . . . . . Q .
+. . Q . . . . .
+
+TEMPO: 0.0090  CONFLITO: 1517  REINICIO: 4
+
+Execução 8
+
+TABULEIRO INICIAL:
+Q . . . . . . .
+. . . . . . . .
+. . . . . Q . .
+. Q . . . . . .
+. . . . . . . .
+. . . Q . . . .
+. . Q . . . . Q
+. . . . Q . Q .
+
+TABULEIRO FINAL:
+. . . Q . . . .
+. Q . . . . . .
+. . . . . . Q .
+. . Q . . . . .
+. . . . . Q . .
+. . . . . . . Q
+. . . . Q . . .
+Q . . . . . . .
+
+TEMPO: 0.0284  CONFLITO: 4607  REINICIO: 14
+
+Execução 9
+
+TABULEIRO INICIAL:
+. . Q . . . Q .
+. . . . . . . .
+. . . . . . . .
+. . . Q . . . .
+. . . . . Q . .
+. . . . . . . Q
+. Q . . . . . .
+Q . . . Q . . .
+
+TABULEIRO FINAL:
+. . . . Q . . .
+. . Q . . . . .
+Q . . . . . . .
+. . . . . Q . .
+. . . . . . . Q
+. Q . . . . . .
+. . . Q . . . .
+. . . . . . Q .
+
+TEMPO: 0.0040  CONFLITO: 731  REINICIO: 2
+
+Execução 10
+
+TABULEIRO INICIAL:
+. . Q . . . . .
+. . . . . . . .
+Q . . . . . . .
+. . . Q Q Q . .
+. . . . . . . .
+. . . . . . Q .
+. . . . . . . .
+. Q . . . . . Q
+
+TABULEIRO FINAL:
+. . . Q . . . .
+. . . . . . Q .
+. . Q . . . . .
+. . . . . . . Q
+. Q . . . . . .
+. . . . Q . . .
+Q . . . . . . .
+. . . . . Q . .
+
+TEMPO: 0.0120  CONFLITO: 2192  REINICIO: 7
+
+Execução 11
+
+TABULEIRO INICIAL:
+. . . Q Q . . .
+. . . . . . . .
+. . . . . . . Q
+. . . . . . . .
+. Q . . . . . .
+. . . . . . . .
+. . Q . . . Q .
+Q . . . . Q . .
+
+TABULEIRO FINAL:
+. . Q . . . . .
+. . . . . Q . .
+. . . . . . . Q
+Q . . . . . . .
+. . . Q . . . .
+. . . . . . Q .
+. . . . Q . . .
+. Q . . . . . .
+
+TEMPO: 0.0020  CONFLITO: 394  REINICIO: 1
+
+Execução 12
+
+TABULEIRO INICIAL:
+. . . . . . . .
+. Q . . . . Q .
+. . . . . . . .
+. . . Q . . . .
+Q . . . Q . . .
+. . . . . Q . .
+. . Q . . . . Q
+. . . . . . . .
+
+TABULEIRO FINAL:
+. . Q . . . . .
+. . . . Q . . .
+. . . . . . Q .
+Q . . . . . . .
+. . . Q . . . .
+. Q . . . . . .
+. . . . . . . Q
+. . . . . Q . .
+
+TEMPO: 0.0120  CONFLITO: 2134  REINICIO: 5
+
+Execução 13
+
+TABULEIRO INICIAL:
+. . . . . . . .
+. . . . . . Q .
+. . Q . . . . .
+. . . . . Q . .
+. Q . . . . . .
+. . . . Q . . Q
+. . . . . . . .
+Q . . Q . . . .
+
+TABULEIRO FINAL:
+. Q . . . . . .
+. . . . . . Q .
+. . Q . . . . .
+. . . . . Q . .
+. . . . . . . Q
+. . . . Q . . .
+Q . . . . . . .
+. . . Q . . . .
+
+TEMPO: 0.0010  CONFLITO: 169  REINICIO: 0
+
+Execução 14
+
+TABULEIRO INICIAL:
+. Q . . . . Q .
+. . . . . . . .
+Q . . . . . . Q
+. . . Q Q . . .
+. . Q . . . . .
+. . . . . Q . .
+. . . . . . . .
+. . . . . . . .
+
+TABULEIRO FINAL:
+. Q . . . . . .
+. . . . . Q . .
+. . . . . . . Q
+. . Q . . . . .
+Q . . . . . . .
+. . . Q . . . .
+. . . . . . Q .
+. . . . Q . . .
+
+TEMPO: 0.0050  CONFLITO: 955  REINICIO: 2
+
+Execução 15
+
+TABULEIRO INICIAL:
+. . . . . . . .
+. . . . Q . . .
+Q . . . . Q . .
+. . . . . . . .
+. . . . . . Q .
+. . Q . . . . .
+. Q . . . . . .
+. . . Q . . . Q
+
+TABULEIRO FINAL:
+. . . . . . Q .
+. . Q . . . . .
+Q . . . . . . .
+. . . . . Q . .
+. . . . . . . Q
+. . . . Q . . .
+. Q . . . . . .
+. . . Q . . . .
+
+TEMPO: 0.0011  CONFLITO: 281  REINICIO: 0
+
+Execução 16
+
+TABULEIRO INICIAL:
+Q . . . . . . .
+. . Q . Q Q . .
+. . . . . . Q .
+. . . Q . . . .
+. . . . . . . .
+. Q . . . . . .
+. . . . . . . .
+. . . . . . . Q
+
+TABULEIRO FINAL:
+. . . . . Q . .
+. . Q . . . . .
+Q . . . . . . .
+. . . . . . . Q
+. . . . Q . . .
+. Q . . . . . .
+. . . Q . . . .
+. . . . . . Q .
+
+TEMPO: 0.0235  CONFLITO: 4380  REINICIO: 11
+
+Execução 17
+
+TABULEIRO INICIAL:
+. . . . . . . Q
+Q . . Q . . . .
+. Q . . . . . .
+. . . . . . . .
+. . . . . Q . .
+. . . . . . . .
+. . . . . . . .
+. . Q . Q . Q .
+
+TABULEIRO FINAL:
+. . . . Q . . .
+. Q . . . . . .
+. . . . . Q . .
+Q . . . . . . .
+. . . . . . Q .
+. . . Q . . . .
+. . . . . . . Q
+. . Q . . . . .
+
+TEMPO: 0.0231  CONFLITO: 4213  REINICIO: 12
+
+Execução 18
+
+TABULEIRO INICIAL:
+. . . . . . Q .
+. . . . . . . Q
+Q . . . . . . .
+. . . . . . . .
+. . . . Q Q . .
+. Q . Q . . . .
+. . Q . . . . .
+. . . . . . . .
+
+TABULEIRO FINAL:
+. . . . . Q . .
+. . Q . . . . .
+. . . . . . Q .
+. Q . . . . . .
+. . . Q . . . .
+. . . . . . . Q
+Q . . . . . . .
+. . . . Q . . .
+
+TEMPO: 0.0068  CONFLITO: 1123  REINICIO: 2
+
+Execução 19
+
+TABULEIRO INICIAL:
+. . Q . . . . Q
+Q . . . . . . .
+. . . . . . . .
+. . . . Q Q . .
+. Q . . . . Q .
+. . . Q . . . .
+. . . . . . . .
+. . . . . . . .
+
+TABULEIRO FINAL:
+. . . . Q . . .
+Q . . . . . . .
+. . . . . . . Q
+. . . Q . . . .
+. Q . . . . . .
+. . . . . . Q .
+. . Q . . . . .
+. . . . . Q . .
+
+TEMPO: 0.0021  CONFLITO: 393  REINICIO: 0
+
+Execução 20
+
+TABULEIRO INICIAL:
+. Q . . . . . .
+. . . . Q . . Q
+. . . . . . . .
+. . . . . . . .
+. . . . . Q . .
+. . . Q . . Q .
+. . . . . . . .
+Q . Q . . . . .
+
+TABULEIRO FINAL:
+. . . . . Q . .
+. . Q . . . . .
+. . . . Q . . .
+. . . . . . Q .
+Q . . . . . . .
+. . . Q . . . .
+. Q . . . . . .
+. . . . . . . Q
+
+TEMPO: 0.0260  CONFLITO: 3876  REINICIO: 11
+
+Execução 21
+
+TABULEIRO INICIAL:
+. . . . . . . .
+. . . . . . . .
+Q Q . . . . . Q
+. . . Q . . . .
+. . . . . . . .
+. . . . . Q . .
+. . Q . Q . Q .
+. . . . . . . .
+
+TABULEIRO FINAL:
+. . . . . . Q .
+. . Q . . . . .
+Q . . . . . . .
+. . . . . Q . .
+. . . . . . . Q
+. . . . Q . . .
+. Q . . . . . .
+. . . Q . . . .
+
+TEMPO: 0.0100  CONFLITO: 1517  REINICIO: 4
+
+Execução 22
+
+TABULEIRO INICIAL:
+. . . . . . . .
+. Q . . . . . .
+. . . . Q . . .
+Q . . . . . . .
+. . Q Q . . . .
+. . . . . . . Q
+. . . . . Q . .
+. . . . . . Q .
+
+TABULEIRO FINAL:
+. . . . Q . . .
+Q . . . . . . .
+. . . Q . . . .
+. . . . . Q . .
+. . . . . . . Q
+. Q . . . . . .
+. . . . . . Q .
+. . Q . . . . .
+
+TEMPO: 0.0051  CONFLITO: 955  REINICIO: 2
+
+Execução 23
+
+TABULEIRO INICIAL:
+. Q . . . Q . .
+. . . . . . . Q
+. . . . . . Q .
+. . . . . . . .
+. . . . . . . .
+. . Q . . . . .
+. . . Q . . . .
+Q . . . Q . . .
+
+TABULEIRO FINAL:
+. . . . Q . . .
+. . . . . . . Q
+. . . Q . . . .
+Q . . . . . . .
+. . . . . . Q .
+. Q . . . . . .
+. . . . . Q . .
+. . Q . . . . .
+
+TEMPO: 0.0337  CONFLITO: 6067  REINICIO: 18
+
+Execução 24
+
+TABULEIRO INICIAL:
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+Q . Q Q Q Q . .
+. . . . . . Q .
+. Q . . . . . .
+. . . . . . . .
+. . . . . . . Q
+
+TABULEIRO FINAL:
+. . . . Q . . .
+. . . . . . Q .
+Q . . . . . . .
+. . . Q . . . .
+. Q . . . . . .
+. . . . . . . Q
+. . . . . Q . .
+. . Q . . . . .
+
+TEMPO: 0.0040  CONFLITO: 730  REINICIO: 1
+
+Execução 25
+
+TABULEIRO INICIAL:
+. . . . Q . . .
+Q . . . . . Q .
+. . . . . . . .
+. . . . . . . Q
+. . Q . . Q . .
+. Q . Q . . . .
+. . . . . . . .
+. . . . . . . .
+
+TABULEIRO FINAL:
+. . . . Q . . .
+. . . . . . Q .
+. Q . . . . . .
+. . . . . Q . .
+. . Q . . . . .
+Q . . . . . . .
+. . . Q . . . .
+. . . . . . . Q
+
+TEMPO: 0.0010  CONFLITO: 281  REINICIO: 0
+
+Execução 26
+
+TABULEIRO INICIAL:
+. . Q . . . . .
+. Q . . . Q Q .
+Q . . . Q . . .
+. . . . . . . Q
+. . . . . . . .
+. . . . . . . .
+. . . Q . . . .
+. . . . . . . .
+
+TABULEIRO FINAL:
+. . Q . . . . .
+. . . . . . Q .
+. Q . . . . . .
+. . . . . . . Q
+. . . . . Q . .
+. . . Q . . . .
+Q . . . . . . .
+. . . . Q . . .
+
+TEMPO: 0.0020  CONFLITO: 337  REINICIO: 0
+
+Execução 27
+
+TABULEIRO INICIAL:
+. . . . . . . .
+. . . Q . . . .
+Q . . . Q . . .
+. Q . . . Q Q .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . Q . . . . Q
+
+TABULEIRO FINAL:
+. . Q . . . . .
+. . . . . . . Q
+. . . Q . . . .
+. . . . . . Q .
+Q . . . . . . .
+. . . . . Q . .
+. Q . . . . . .
+. . . . Q . . .
+
+TEMPO: 0.0200  CONFLITO: 3708  REINICIO: 11
+
+Execução 28
+
+TABULEIRO INICIAL:
+. . . . . . . .
+. . . . Q . . .
+. . . Q . . . .
+. Q . . . . . .
+. . . . . Q . .
+. . Q . . . . Q
+Q . . . . . . .
+. . . . . . Q .
+
+TABULEIRO FINAL:
+. . . Q . . . .
+. Q . . . . . .
+. . . . . . . Q
+. . . . . Q . .
+Q . . . . . . .
+. . Q . . . . .
+. . . . Q . . .
+. . . . . . Q .
+
+TEMPO: 0.0621  CONFLITO: 11853  REINICIO: 36
+
+Execução 29
+
+TABULEIRO INICIAL:
+. . . . . . . .
+. . Q . . . Q .
+. . . . . . . .
+. . . . Q Q . .
+. Q . . . . . .
+. . . . . . . Q
+Q . . Q . . . .
+. . . . . . . .
+
+TABULEIRO FINAL:
+. . . Q . . . .
+. . . . . . Q .
+. . Q . . . . .
+. . . . . . . Q
+. Q . . . . . .
+. . . . Q . . .
+Q . . . . . . .
+. . . . . Q . .
+
+TEMPO: 0.0121  CONFLITO: 1854  REINICIO: 5
+
+Execução 30
+
+TABULEIRO INICIAL:
+. . . Q . . . .
+. . . . . . . .
+. . . . . Q . .
+. . . . . . . .
+. . Q . . . . .
+Q Q . . Q . . .
+. . . . . . . Q
+. . . . . . Q .
+
+TABULEIRO FINAL:
+. Q . . . . . .
+. . . . . . Q .
+. . Q . . . . .
+. . . . . Q . .
+. . . . . . . Q
+. . . . Q . . .
+Q . . . . . . .
+. . . Q . . . .
+
+TEMPO: 0.0111  CONFLITO: 1854  REINICIO: 5
+
+Execução 31
+
+TABULEIRO INICIAL:
+. . . . . . . .
+. . . . Q . . .
+. . . . . . . Q
+. . . . . Q Q .
+Q . . . . . . .
+. . Q . . . . .
+. . . . . . . .
+. Q . Q . . . .
+
+TABULEIRO FINAL:
+. . . Q . . . .
+. Q . . . . . .
+. . . . . . . Q
+. . . . Q . . .
+. . . . . . Q .
+Q . . . . . . .
+. . Q . . . . .
+. . . . . Q . .
+
+TEMPO: 0.0071  CONFLITO: 1180  REINICIO: 3
+
+Execução 32
+
+TABULEIRO INICIAL:
+. . . . Q Q . .
+. . . . . . Q .
+. . . . . . . .
+. Q . . . . . .
+. . . . . . . Q
+. . . . . . . .
+. . Q Q . . . .
+Q . . . . . . .
+
+TABULEIRO FINAL:
+. . . . Q . . .
+. . . . . . Q .
+Q . . . . . . .
+. . Q . . . . .
+. . . . . . . Q
+. . . . . Q . .
+. . . Q . . . .
+. Q . . . . . .
+
+TEMPO: 0.0650  CONFLITO: 12806  REINICIO: 37
+
+Execução 33
+
+TABULEIRO INICIAL:
+. . . . Q Q . .
+. . . . . . . .
+Q . . . . . . .
+. Q . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . Q . . Q .
+. . Q . . . . Q
+
+TABULEIRO FINAL:
+. . . Q . . . .
+. Q . . . . . .
+. . . . Q . . .
+. . . . . . . Q
+. . . . . Q . .
+Q . . . . . . .
+. . Q . . . . .
+. . . . . . Q .
+
+TEMPO: 0.0060  CONFLITO: 1124  REINICIO: 3
+
+Execução 34
+
+TABULEIRO INICIAL:
+. . . Q . . . Q
+Q . . . . . . .
+. . Q . . . Q .
+. . . . . . . .
+. . . . . . . .
+. Q . . . . . .
+. . . . . . . .
+. . . . Q Q . .
+
+TABULEIRO FINAL:
+. . . . . Q . .
+. . Q . . . . .
+. . . . . . Q .
+. . . Q . . . .
+Q . . . . . . .
+. . . . . . . Q
+. Q . . . . . .
+. . . . Q . . .
+
+TEMPO: 0.0290  CONFLITO: 4550  REINICIO: 13
+
+Execução 35
+
+TABULEIRO INICIAL:
+. . . . . Q . .
+. . . Q . . . .
+. . Q . . . . .
+. . . . . . . .
+. . . . . . . .
+Q . . . . . . Q
+. . . . Q . Q .
+. Q . . . . . .
+
+TABULEIRO FINAL:
+. . Q . . . . .
+. . . . . Q . .
+. . . . . . . Q
+Q . . . . . . .
+. . . . Q . . .
+. . . . . . Q .
+. Q . . . . . .
+. . . Q . . . .
+
+TEMPO: 0.0300  CONFLITO: 3369  REINICIO: 8
+
+Execução 36
+
+TABULEIRO INICIAL:
+. Q . Q Q . . .
+. . . . . Q . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . Q .
+. . . . . . . .
+Q . Q . . . . .
+. . . . . . . Q
+
+TABULEIRO FINAL:
+. . . . . Q . .
+. . . Q . . . .
+. . . . . . Q .
+Q . . . . . . .
+. . Q . . . . .
+. . . . Q . . .
+. Q . . . . . .
+. . . . . . . Q
+
+TEMPO: 0.0020  CONFLITO: 394  REINICIO: 1
+
+Execução 37
+
+TABULEIRO INICIAL:
+. . Q . Q . . .
+. . . Q . . . .
+. . . . . . . .
+. . . . . . . .
+Q Q . . . . . Q
+. . . . . Q . .
+. . . . . . . .
+. . . . . . Q .
+
+TABULEIRO FINAL:
+. . Q . . . . .
+. . . . . Q . .
+. . . . . . . Q
+Q . . . . . . .
+. . . Q . . . .
+. . . . . . Q .
+. . . . Q . . .
+. Q . . . . . .
+
+TEMPO: 0.0060  CONFLITO: 1068  REINICIO: 3
+
+Execução 38
+
+TABULEIRO INICIAL:
+. . . . . Q . .
+Q . . . . . . .
+. . . . . . . .
+. . . . Q . . .
+. . Q . . . . Q
+. . . Q . . . .
+. Q . . . . Q .
+. . . . . . . .
+
+TABULEIRO FINAL:
+. . . . Q . . .
+Q . . . . . . .
+. . . . . . . Q
+. . . Q . . . .
+. Q . . . . . .
+. . . . . . Q .
+. . Q . . . . .
+. . . . . Q . .
+
+TEMPO: 0.0140  CONFLITO: 2977  REINICIO: 8
+
+Execução 39
+
+TABULEIRO INICIAL:
+Q . . Q . Q . .
+. . . . . . . .
+. . . . Q . . .
+. . Q . . . . .
+. . . . . . . .
+. Q . . . . . .
+. . . . . . . .
+. . . . . . Q Q
+
+TABULEIRO FINAL:
+. . . . Q . . .
+. . . . . . Q .
+. Q . . . . . .
+. . . . . Q . .
+. . Q . . . . .
+Q . . . . . . .
+. . . . . . . Q
+. . . Q . . . .
+
+TEMPO: 0.0090  CONFLITO: 1742  REINICIO: 5
+
+Execução 40
+
+TABULEIRO INICIAL:
+. . . . . . Q .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . Q
+. . Q . . . . .
+. Q . Q . Q . .
+Q . . . Q . . .
+
+TABULEIRO FINAL:
+. . Q . . . . .
+. . . . . Q . .
+. . . . . . . Q
+Q . . . . . . .
+. . . Q . . . .
+. . . . . . Q .
+. . . . Q . . .
+. Q . . . . . .
+
+TEMPO: 0.0060  CONFLITO: 1235  REINICIO: 2
+
+Execução 41
+
+TABULEIRO INICIAL:
+. . Q . Q . . Q
+. . . . . . . .
+. . . . . Q Q .
+. . . . . . . .
+Q . . . . . . .
+. . . Q . . . .
+. . . . . . . .
+. Q . . . . . .
+
+TABULEIRO FINAL:
+. . Q . . . . .
+. . . . . Q . .
+. . . Q . . . .
+Q . . . . . . .
+. . . . . . . Q
+. . . . Q . . .
+. . . . . . Q .
+. Q . . . . . .
+
+TEMPO: 0.0150  CONFLITO: 2697  REINICIO: 8
+
+Execução 42
+
+TABULEIRO INICIAL:
+. . . . . Q . .
+. . . . . . Q .
+. . Q . . . . .
+Q . . . . . . .
+. . . . . . . .
+. Q . . . . . .
+. . . . . . . Q
+. . . Q Q . . .
+
+TABULEIRO FINAL:
+Q . . . . . . .
+. . . . Q . . .
+. . . . . . . Q
+. . . . . Q . .
+. . Q . . . . .
+. . . . . . Q .
+. Q . . . . . .
+. . . Q . . . .
+
+TEMPO: 0.0171  CONFLITO: 3428  REINICIO: 11
+
+Execução 43
+
+TABULEIRO INICIAL:
+. Q . . . . . .
+. . . . . Q . .
+. . . . . . Q .
+. . . . . . . .
+. . . . . . . .
+Q . . . . . . .
+. . Q Q Q . . Q
+. . . . . . . .
+
+TABULEIRO FINAL:
+. . . . . Q . .
+. . Q . . . . .
+. . . . . . Q .
+. Q . . . . . .
+. . . Q . . . .
+. . . . . . . Q
+Q . . . . . . .
+. . . . Q . . .
+
+TEMPO: 0.0140  CONFLITO: 2697  REINICIO: 8
+
+Execução 44
+
+TABULEIRO INICIAL:
+. . . . . . . .
+. . . . . Q . .
+Q . . . . . . .
+. . Q Q . . . Q
+. . . . . . . .
+. Q . . Q . Q .
+. . . . . . . .
+. . . . . . . .
+
+TABULEIRO FINAL:
+. . . . Q . . .
+. . . . . . Q .
+. Q . . . . . .
+. . . . . Q . .
+. . Q . . . . .
+Q . . . . . . .
+. . . . . . . Q
+. . . Q . . . .
+
+TEMPO: 0.0050  CONFLITO: 898  REINICIO: 1
+
+Execução 45
+
+TABULEIRO INICIAL:
+. . . Q . . . .
+Q . . . Q . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . Q . . . . Q
+. . . . . Q Q .
+. Q . . . . . .
+
+TABULEIRO FINAL:
+Q . . . . . . .
+. . . . Q . . .
+. . . . . . . Q
+. . . . . Q . .
+. . Q . . . . .
+. . . . . . Q .
+. Q . . . . . .
+. . . Q . . . .
+
+TEMPO: 0.0200  CONFLITO: 3764  REINICIO: 11
+
+Execução 46
+
+TABULEIRO INICIAL:
+. . . . . . . .
+. . Q . . . . .
+. . . . Q . . .
+. Q . Q . . . .
+. . . . . Q . .
+. . . . . . . .
+Q . . . . . Q Q
+. . . . . . . .
+
+TABULEIRO FINAL:
+. . . . . Q . .
+. Q . . . . . .
+. . . . . . Q .
+Q . . . . . . .
+. . Q . . . . .
+. . . . Q . . .
+. . . . . . . Q
+. . . Q . . . .
+
+TEMPO: 0.0050  CONFLITO: 899  REINICIO: 2
+
+Execução 47
+
+TABULEIRO INICIAL:
+. . . . . . . .
+. . . Q . . . .
+. . . . . . . .
+. . Q . . . . .
+. . . . . Q Q Q
+Q . . . . . . .
+. Q . . Q . . .
+. . . . . . . .
+
+TABULEIRO FINAL:
+. Q . . . . . .
+. . . . . . Q .
+. . . . Q . . .
+. . . . . . . Q
+Q . . . . . . .
+. . . Q . . . .
+. . . . . Q . .
+. . Q . . . . .
+
+TEMPO: 0.0360  CONFLITO: 6965  REINICIO: 20
+
+Execução 48
+
+TABULEIRO INICIAL:
+. . . . . . . .
+. . . . . . . .
+Q . . . . . . .
+. Q . . Q Q . .
+. . Q Q . . . .
+. . . . . . . Q
+. . . . . . Q .
+. . . . . . . .
+
+TABULEIRO FINAL:
+. . Q . . . . .
+. . . . . Q . .
+. Q . . . . . .
+. . . . . . Q .
+. . . . Q . . .
+Q . . . . . . .
+. . . . . . . Q
+. . . Q . . . .
+
+TEMPO: 0.0041  CONFLITO: 674  REINICIO: 1
+
+Execução 49
+
+TABULEIRO INICIAL:
+. Q . . . . . .
+. . Q . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . Q . . .
+Q . . . . Q . .
+. . . . . . Q Q
+. . . Q . . . .
+
+TABULEIRO FINAL:
+. . . . . Q . .
+. Q . . . . . .
+. . . . . . Q .
+Q . . . . . . .
+. . Q . . . . .
+. . . . Q . . .
+. . . . . . . Q
+. . . Q . . . .
+
+TEMPO: 0.0270  CONFLITO: 4942  REINICIO: 13
+
+Execução 50
+
+TABULEIRO INICIAL:
+Q . . . . . . .
+. . . . . . . .
+. . . Q . . . .
+. . . . Q . . .
+. Q . . . Q . Q
+. . . . . . . .
+. . Q . . . Q .
+. . . . . . . .
+
+TABULEIRO FINAL:
+. . Q . . . . .
+. . . . . Q . .
+. Q . . . . . .
+. . . . . . Q .
+. . . . Q . . .
+Q . . . . . . .
+. . . . . . . Q
+. . . Q . . . .
+
+TEMPO: 0.0100  CONFLITO: 2022  REINICIO: 5
+
+Execução 51
+
+TABULEIRO INICIAL:
+. . . . . Q . Q
+Q . . . . . . .
+. . . Q . . . .
+. . . . . . . .
+. . . . . . . .
+. . Q . Q . . .
+. Q . . . . Q .
+. . . . . . . .
+
+TABULEIRO FINAL:
+. . Q . . . . .
+. . . . Q . . .
+. Q . . . . . .
+. . . . . . . Q
+Q . . . . . . .
+. . . . . . Q .
+. . . Q . . . .
+. . . . . Q . .
+
+TEMPO: 0.0240  CONFLITO: 4213  REINICIO: 12
+
+Execução 52
+
+TABULEIRO INICIAL:
+. . . . . . . .
+. . Q . . . . .
+. . . Q Q . . .
+. . . . . . . .
+. Q . . . . . Q
+. . . . . . . .
+Q . . . . . Q .
+. . . . . Q . .
+
+TABULEIRO FINAL:
+. . . Q . . . .
+. . . . . . Q .
+. . . . Q . . .
+. Q . . . . . .
+. . . . . Q . .
+Q . . . . . . .
+. . Q . . . . .
+. . . . . . . Q
+
+TEMPO: 0.0270  CONFLITO: 5001  REINICIO: 16
+
+Execução 53
+
+TABULEIRO INICIAL:
+. Q . . . . . .
+. . . . . Q . .
+. . . . . . . .
+. . . . . . . .
+Q . . . Q . . .
+. . . . . . . Q
+. . . . . . . .
+. . Q Q . . Q .
+
+TABULEIRO FINAL:
+. . . . Q . . .
+. . . . . . Q .
+. . . Q . . . .
+Q . . . . . . .
+. . Q . . . . .
+. . . . . . . Q
+. . . . . Q . .
+. Q . . . . . .
+
+TEMPO: 0.0030  CONFLITO: 674  REINICIO: 1
+
+Execução 54
+
+TABULEIRO INICIAL:
+. . . Q Q . . .
+. . . . . . . .
+Q . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . Q Q
+. Q . . . Q . .
+. . Q . . . . .
+
+TABULEIRO FINAL:
+. . . . Q . . .
+. . . . . . Q .
+Q . . . . . . .
+. . . Q . . . .
+. Q . . . . . .
+. . . . . . . Q
+. . . . . Q . .
+. . Q . . . . .
+
+TEMPO: 0.0020  CONFLITO: 225  REINICIO: 0
+
+Execução 55
+
+TABULEIRO INICIAL:
+. Q . . . . . .
+. . . . . . . .
+. . . . . . Q Q
+. . Q . . . . .
+. . . Q Q . . .
+. . . . . . . .
+Q . . . . Q . .
+. . . . . . . .
+
+TABULEIRO FINAL:
+. . . . Q . . .
+Q . . . . . . .
+. . . . . . . Q
+. . . Q . . . .
+. Q . . . . . .
+. . . . . . Q .
+. . Q . . . . .
+. . . . . Q . .
+
+TEMPO: 0.0080  CONFLITO: 2358  REINICIO: 5
+
+Execução 56
+
+TABULEIRO INICIAL:
+. . . . Q . . .
+. . . . . . . .
+. . . Q . . . .
+Q Q Q . . . . Q
+. . . . . Q . .
+. . . . . . Q .
+. . . . . . . .
+. . . . . . . .
+
+TABULEIRO FINAL:
+. . . . . Q . .
+. . . Q . . . .
+. . . . . . Q .
+Q . . . . . . .
+. . Q . . . . .
+. . . . Q . . .
+. Q . . . . . .
+. . . . . . . Q
+
+TEMPO: 0.0230  CONFLITO: 4100  REINICIO: 11
+
+Execução 57
+
+TABULEIRO INICIAL:
+. . . . . . Q .
+. . Q . Q . . Q
+. . . Q . . . .
+Q Q . . . . . .
+. . . . . Q . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+TABULEIRO FINAL:
+. . . . . . . Q
+. Q . . . . . .
+. . . . Q . . .
+. . Q . . . . .
+Q . . . . . . .
+. . . . . . Q .
+. . . Q . . . .
+. . . . . Q . .
+
+TEMPO: 0.0184  CONFLITO: 2919  REINICIO: 6
+
+Execução 58
+
+TABULEIRO INICIAL:
+. . . . . . . .
+. . . . . . . .
+Q Q . Q . . . .
+. . . . . . . .
+. . Q . . . . .
+. . . . . Q Q .
+. . . . . . . Q
+. . . . Q . . .
+
+TABULEIRO FINAL:
+. . Q . . . . .
+. . . . . . . Q
+. . . Q . . . .
+. . . . . . Q .
+Q . . . . . . .
+. . . . . Q . .
+. Q . . . . . .
+. . . . Q . . .
+
+TEMPO: 0.0021  CONFLITO: 449  REINICIO: 0
+
+Execução 59
+
+TABULEIRO INICIAL:
+. . . . . . . .
+. . . . . . Q Q
+. . Q . Q . . .
+Q . . . . . . .
+. . . . . . . .
+. Q . Q . . . .
+. . . . . . . .
+. . . . . Q . .
+
+TABULEIRO FINAL:
+. Q . . . . . .
+. . . . . Q . .
+Q . . . . . . .
+. . . . . . Q .
+. . . Q . . . .
+. . . . . . . Q
+. . Q . . . . .
+. . . . Q . . .
+
+TEMPO: 0.0035  CONFLITO: 562  REINICIO: 1
+
+Execução 60
+
+TABULEIRO INICIAL:
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. Q . . . . . .
+Q . . . . . . .
+. . Q . . Q Q .
+. . . . Q . . Q
+. . . Q . . . .
+
+TABULEIRO FINAL:
+. . . Q . . . .
+. . . . . Q . .
+. . . . . . . Q
+. . Q . . . . .
+Q . . . . . . .
+. . . . . . Q .
+. . . . Q . . .
+. Q . . . . . .
+
+TEMPO: 0.0021  CONFLITO: 505  REINICIO: 0
+
+Execução 61
+
+TABULEIRO INICIAL:
+Q . . Q . . . .
+. Q . . Q . . Q
+. . . . . . . .
+. . . . . . Q .
+. . . . . . . .
+. . . . . Q . .
+. . Q . . . . .
+. . . . . . . .
+
+TABULEIRO FINAL:
+. . Q . . . . .
+. . . . . . Q .
+. Q . . . . . .
+. . . . . . . Q
+. . . . . Q . .
+. . . Q . . . .
+Q . . . . . . .
+. . . . Q . . .
+
+TEMPO: 0.0090  CONFLITO: 1573  REINICIO: 4
+
+Execução 62
+
+TABULEIRO INICIAL:
+Q . Q . . . . .
+. . . . . . . .
+. . . Q . . . Q
+. . . . . . . .
+. . . . . . . .
+. . . . Q Q Q .
+. Q . . . . . .
+. . . . . . . .
+
+TABULEIRO FINAL:
+. . . Q . . . .
+. Q . . . . . .
+. . . . Q . . .
+. . . . . . . Q
+. . . . . Q . .
+Q . . . . . . .
+. . Q . . . . .
+. . . . . . Q .
+
+TEMPO: 0.0060  CONFLITO: 1012  REINICIO: 3
+
+Execução 63
+
+TABULEIRO INICIAL:
+. . . . . Q . .
+Q Q . . . . . .
+. . Q . . . . .
+. . . . . . . .
+. . . . . . Q .
+. . . Q . . . Q
+. . . . . . . .
+. . . . Q . . .
+
+TABULEIRO FINAL:
+. Q . . . . . .
+. . . . . Q . .
+Q . . . . . . .
+. . . . . . Q .
+. . . Q . . . .
+. . . . . . . Q
+. . Q . . . . .
+. . . . Q . . .
+
+TEMPO: 0.0180  CONFLITO: 3204  REINICIO: 11
+
+Execução 64
+
+TABULEIRO INICIAL:
+. . . . . . . .
+. . . . Q . . .
+. . . Q . . . .
+. . Q . . . Q .
+. . . . . . . Q
+. . . . . . . .
+. . . . . Q . .
+Q Q . . . . . .
+
+TABULEIRO FINAL:
+. . . Q . . . .
+. . . . . Q . .
+. . . . . . . Q
+. . Q . . . . .
+Q . . . . . . .
+. . . . . . Q .
+. . . . Q . . .
+. Q . . . . . .
+
+TEMPO: 0.0220  CONFLITO: 4438  REINICIO: 13
+
+Execução 65
+
+TABULEIRO INICIAL:
+. Q . . . Q . Q
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+Q . Q . . . . .
+. . . . Q . . .
+. . . . . . Q .
+. . . Q . . . .
+
+TABULEIRO FINAL:
+. . . . . Q . .
+. Q . . . . . .
+. . . . . . Q .
+Q . . . . . . .
+. . . Q . . . .
+. . . . . . . Q
+. . . . Q . . .
+. . Q . . . . .
+
+TEMPO: 0.0062  CONFLITO: 1012  REINICIO: 3
+
+Execução 66
+
+TABULEIRO INICIAL:
+. . . . . . . .
+. . . Q . . Q .
+. Q . . . . . .
+. . Q . . . . .
+. . . . Q Q . .
+Q . . . . . . .
+. . . . . . . .
+. . . . . . . Q
+
+TABULEIRO FINAL:
+. . . . . . Q .
+. . . Q . . . .
+. Q . . . . . .
+. . . . . . . Q
+. . . . . Q . .
+Q . . . . . . .
+. . Q . . . . .
+. . . . Q . . .
+
+TEMPO: 0.0011  CONFLITO: 281  REINICIO: 0
+
+Execução 67
+
+TABULEIRO INICIAL:
+. . . . . . . .
+. . . . Q . . .
+. . Q . . . . .
+. . . . . . . .
+. . . . . Q . .
+. Q . . . . Q .
+. . . Q . . . .
+Q . . . . . . Q
+
+TABULEIRO FINAL:
+. . . . . Q . .
+Q . . . . . . .
+. . . . Q . . .
+. Q . . . . . .
+. . . . . . . Q
+. . Q . . . . .
+. . . . . . Q .
+. . . Q . . . .
+
+TEMPO: 0.0080  CONFLITO: 1460  REINICIO: 3
+
+Execução 68
+
+TABULEIRO INICIAL:
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . Q Q .
+. . . . . . . .
+. Q . Q Q . . .
+. . . . . . . .
+Q . Q . . . . Q
+
+TABULEIRO FINAL:
+. . . . Q . . .
+. . . . . . Q .
+. Q . . . . . .
+. . . . . Q . .
+. . Q . . . . .
+Q . . . . . . .
+. . . Q . . . .
+. . . . . . . Q
+
+TEMPO: 0.0110  CONFLITO: 1910  REINICIO: 5
+
+Execução 69
+
+TABULEIRO INICIAL:
+. . Q . . . . .
+Q Q . . Q Q Q .
+. . . Q . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . Q
+. . . . . . . .
+
+TABULEIRO FINAL:
+. . . . . Q . .
+. . Q . . . . .
+. . . . Q . . .
+. . . . . . . Q
+Q . . . . . . .
+. . . Q . . . .
+. Q . . . . . .
+. . . . . . Q .
+
+TEMPO: 0.0060  CONFLITO: 1179  REINICIO: 2
+
+Execução 70
+
+TABULEIRO INICIAL:
+Q . . . . . . Q
+. . . . . Q Q .
+. . . . Q . . .
+. . . . . . . .
+. . . . . . . .
+. . Q . . . . .
+. . . Q . . . .
+. Q . . . . . .
+
+TABULEIRO FINAL:
+. . . . Q . . .
+. . . . . . Q .
+. Q . . . . . .
+. . . . . Q . .
+. . Q . . . . .
+Q . . . . . . .
+. . . . . . . Q
+. . . Q . . . .
+
+TEMPO: 0.0080  CONFLITO: 1517  REINICIO: 4
+
+Execução 71
+
+TABULEIRO INICIAL:
+. . . Q . . . .
+. . Q . . . . .
+. . . . Q . . Q
+. . . . . Q Q .
+. . . . . . . .
+Q Q . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+TABULEIRO FINAL:
+. . . . Q . . .
+. Q . . . . . .
+. . . Q . . . .
+. . . . . Q . .
+. . . . . . . Q
+. . Q . . . . .
+Q . . . . . . .
+. . . . . . Q .
+
+TEMPO: 0.0330  CONFLITO: 6626  REINICIO: 17
+
+Execução 72
+
+TABULEIRO INICIAL:
+. . . Q . . . .
+. . . . . . Q .
+. . . . . . . .
+. . Q . . . . .
+. . . . Q . . .
+. Q . . . Q . Q
+Q . . . . . . .
+. . . . . . . .
+
+TABULEIRO FINAL:
+. Q . . . . . .
+. . . . . . Q .
+. . Q . . . . .
+. . . . . Q . .
+. . . . . . . Q
+. . . . Q . . .
+Q . . . . . . .
+. . . Q . . . .
+
+TEMPO: 0.0120  CONFLITO: 2247  REINICIO: 6
+
+Execução 73
+
+TABULEIRO INICIAL:
+. . . . . Q . .
+. . Q . . . . .
+. Q . . . . . .
+. . . . . . . Q
+. . . . . . . .
+Q . . . Q . Q .
+. . . Q . . . .
+. . . . . . . .
+
+TABULEIRO FINAL:
+. . . . . . Q .
+. . . . Q . . .
+. . Q . . . . .
+Q . . . . . . .
+. . . . . Q . .
+. . . . . . . Q
+. Q . . . . . .
+. . . Q . . . .
+
+TEMPO: 0.0221  CONFLITO: 3877  REINICIO: 12
+
+Execução 74
+
+TABULEIRO INICIAL:
+. Q . . . . . .
+. . . . . Q . .
+Q . . . Q . Q .
+. . . . . . . Q
+. . Q . . . . .
+. . . . . . . .
+. . . Q . . . .
+. . . . . . . .
+
+TABULEIRO FINAL:
+. Q . . . . . .
+. . . . . . . Q
+. . . . . Q . .
+Q . . . . . . .
+. . Q . . . . .
+. . . . Q . . .
+. . . . . . Q .
+. . . Q . . . .
+
+TEMPO: 0.0130  CONFLITO: 2471  REINICIO: 6
+
+Execução 75
+
+TABULEIRO INICIAL:
+. . . . . . . .
+Q Q . Q . Q . .
+. . . . . . Q .
+. . . . . . . Q
+. . . . Q . . .
+. . Q . . . . .
+. . . . . . . .
+. . . . . . . .
+
+TABULEIRO FINAL:
+. . . Q . . . .
+. Q . . . . . .
+. . . . . . Q .
+. . Q . . . . .
+. . . . . Q . .
+. . . . . . . Q
+Q . . . . . . .
+. . . . Q . . .
+
+TEMPO: 0.0160  CONFLITO: 2864  REINICIO: 7
+
+Execução 76
+
+TABULEIRO INICIAL:
+. . . . . Q . .
+Q Q . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . Q . . . .
+. . . . . . . .
+. . . . . . Q .
+. . Q . Q . . Q
+
+TABULEIRO FINAL:
+. . . . . . Q .
+. . Q . . . . .
+. . . . . . . Q
+. Q . . . . . .
+. . . . Q . . .
+Q . . . . . . .
+. . . . . Q . .
+. . . Q . . . .
+
+TEMPO: 0.0380  CONFLITO: 7359  REINICIO: 22
+
+Execução 77
+
+TABULEIRO INICIAL:
+. . . Q . . . .
+. . . . . . . .
+Q . . . . . . .
+. . . . . . . .
+. Q . . Q . . .
+. . . . . . . Q
+. . Q . . Q . .
+. . . . . . Q .
+
+TABULEIRO FINAL:
+. . . . Q . . .
+. . . . . . Q .
+Q . . . . . . .
+. . . Q . . . .
+. Q . . . . . .
+. . . . . . . Q
+. . . . . Q . .
+. . Q . . . . .
+
+TEMPO: 0.0020  CONFLITO: 225  REINICIO: 0
+
+Execução 78
+
+TABULEIRO INICIAL:
+. . . . Q . . Q
+. . . . . . . .
+. . . . . . Q .
+. . . Q . Q . .
+. . Q . . . . .
+Q . . . . . . .
+. . . . . . . .
+. Q . . . . . .
+
+TABULEIRO FINAL:
+. . . . . . Q .
+. . Q . . . . .
+. . . . . . . Q
+. Q . . . . . .
+. . . . Q . . .
+Q . . . . . . .
+. . . . . Q . .
+. . . Q . . . .
+
+TEMPO: 0.0150  CONFLITO: 2416  REINICIO: 7
+
+Execução 79
+
+TABULEIRO INICIAL:
+. . . . . . . .
+Q . . . . . . .
+. . . Q . . . .
+. Q . . Q Q . Q
+. . Q . . . Q .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+TABULEIRO FINAL:
+. . . Q . . . .
+. Q . . . . . .
+. . . . . . Q .
+. . . . Q . . .
+Q . . . . . . .
+. . . . . . . Q
+. . . . . Q . .
+. . Q . . . . .
+
+TEMPO: 0.0142  CONFLITO: 2864  REINICIO: 7
+
+Execução 80
+
+TABULEIRO INICIAL:
+. . . . . . . .
+. . . . Q . . .
+. . . . . . . .
+Q . . . . . . .
+. . . . . . . Q
+. . . . . . . .
+. Q . . . Q . .
+. . Q Q . . Q .
+
+TABULEIRO FINAL:
+. . Q . . . . .
+. . . . . . . Q
+. . . Q . . . .
+. . . . . . Q .
+Q . . . . . . .
+. . . . . Q . .
+. Q . . . . . .
+. . . . Q . . .
+
+TEMPO: 0.0250  CONFLITO: 4549  REINICIO: 12
+
+Execução 81
+
+TABULEIRO INICIAL:
+. . Q . . . . .
+. . . . . . . .
+Q . . Q . . . .
+. . . . . Q . .
+. . . . . . . Q
+. . . . Q . . .
+. Q . . . . Q .
+. . . . . . . .
+
+TABULEIRO FINAL:
+. . . Q . . . .
+. Q . . . . . .
+. . . . . . . Q
+. . . . . Q . .
+Q . . . . . . .
+. . Q . . . . .
+. . . . Q . . .
+. . . . . . Q .
+
+TEMPO: 0.0100  CONFLITO: 1798  REINICIO: 5
+
+Execução 82
+
+TABULEIRO INICIAL:
+. . . . . . . .
+. Q . . . . . .
+. . . . . . . .
+Q . . . . . . .
+. . Q . . . . Q
+. . . . Q . . .
+. . . . . . . .
+. . . Q . Q Q .
+
+TABULEIRO FINAL:
+. . . Q . . . .
+. Q . . . . . .
+. . . . Q . . .
+. . . . . . . Q
+. . . . . Q . .
+Q . . . . . . .
+. . Q . . . . .
+. . . . . . Q .
+
+TEMPO: 0.0110  CONFLITO: 1854  REINICIO: 5
+
+Execução 83
+
+TABULEIRO INICIAL:
+. . . . . Q Q .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+Q . . Q Q . . .
+. Q . . . . . .
+. . . . . . . Q
+. . Q . . . . .
+
+TABULEIRO FINAL:
+. . . Q . . . .
+. Q . . . . . .
+. . . . . . Q .
+. . Q . . . . .
+. . . . . Q . .
+. . . . . . . Q
+. . . . Q . . .
+Q . . . . . . .
+
+TEMPO: 0.0063  CONFLITO: 787  REINICIO: 2
+
+Execução 84
+
+TABULEIRO INICIAL:
+. . Q . . . . .
+Q . . . . . . Q
+. Q . . . . . .
+. . . Q Q Q . .
+. . . . . . Q .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+TABULEIRO FINAL:
+. . . . . Q . .
+. . . Q . . . .
+Q . . . . . . .
+. . . . Q . . .
+. . . . . . . Q
+. Q . . . . . .
+. . . . . . Q .
+. . Q . . . . .
+
+TEMPO: 0.0051  CONFLITO: 730  REINICIO: 1
+
+Execução 85
+
+TABULEIRO INICIAL:
+. . Q . . . . .
+Q . . . . . . .
+. . . . . . . .
+. . . . . Q Q .
+. Q . . Q . . .
+. . . . . . . .
+. . . Q . . . .
+. . . . . . . Q
+
+TABULEIRO FINAL:
+. . . . . Q . .
+. . Q . . . . .
+. . . . . . Q .
+. Q . . . . . .
+. . . Q . . . .
+. . . . . . . Q
+Q . . . . . . .
+. . . . Q . . .
+
+TEMPO: 0.0280  CONFLITO: 4998  REINICIO: 13
+
+Execução 86
+
+TABULEIRO INICIAL:
+Q . . . . . . .
+. . . . . . . .
+. . . . Q . . .
+. . . Q . . . .
+. Q . . . . Q .
+. . . . . . . .
+. . Q . . Q . Q
+. . . . . . . .
+
+TABULEIRO FINAL:
+. . . . Q . . .
+. . . . . . Q .
+. Q . . . . . .
+. . . . . Q . .
+. . Q . . . . .
+Q . . . . . . .
+. . . . . . . Q
+. . . Q . . . .
+
+TEMPO: 0.0160  CONFLITO: 3258  REINICIO: 9
+
+Execução 87
+
+TABULEIRO INICIAL:
+. . Q . . . . Q
+. . . . Q . . .
+. . . Q . . Q .
+. . . . . . . .
+Q Q . . . . . .
+. . . . . Q . .
+. . . . . . . .
+. . . . . . . .
+
+TABULEIRO FINAL:
+. . . . . Q . .
+. . Q . . . . .
+. . . . Q . . .
+. . . . . . . Q
+Q . . . . . . .
+. . . Q . . . .
+. Q . . . . . .
+. . . . . . Q .
+
+TEMPO: 0.0089  CONFLITO: 1742  REINICIO: 5
+
+Execução 88
+
+TABULEIRO INICIAL:
+. Q Q . . . . .
+. . . . . . . Q
+Q . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . Q . Q . .
+. . . . Q . Q .
+. . . . . . . .
+
+TABULEIRO FINAL:
+. . Q . . . . .
+. . . . . Q . .
+. . . Q . . . .
+Q . . . . . . .
+. . . . . . . Q
+. . . . Q . . .
+. . . . . . Q .
+. Q . . . . . .
+
+TEMPO: 0.0330  CONFLITO: 5615  REINICIO: 14
+
+Execução 89
+
+TABULEIRO INICIAL:
+Q . . . . . . .
+. . Q . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . Q . Q . .
+. Q . . . . Q .
+. . . . Q . . Q
+
+TABULEIRO FINAL:
+Q . . . . . . .
+. . . . . Q . .
+. . . . . . . Q
+. . Q . . . . .
+. . . . . . Q .
+. . . Q . . . .
+. Q . . . . . .
+. . . . Q . . .
+
+TEMPO: 0.0021  CONFLITO: 281  REINICIO: 0
+
+Execução 90
+
+TABULEIRO INICIAL:
+. . . . . . . .
+. . Q . Q . . .
+Q . . . . . . .
+. . . . . Q . .
+. . . . . . . Q
+. . . . . . . .
+. Q . Q . . . .
+. . . . . . Q .
+
+TABULEIRO FINAL:
+. . . . . . Q .
+. . . . Q . . .
+. . Q . . . . .
+Q . . . . . . .
+. . . . . Q . .
+. . . . . . . Q
+. Q . . . . . .
+. . . Q . . . .
+
+TEMPO: 0.0295  CONFLITO: 5283  REINICIO: 18
+
+Execução 91
+
+TABULEIRO INICIAL:
+. . . . . . . .
+. . . . . . . .
+. . . . Q . . .
+. Q Q . . Q . .
+. . . . . . . .
+. . . Q . . . Q
+. . . . . . . .
+Q . . . . . Q .
+
+TABULEIRO FINAL:
+Q . . . . . . .
+. . . . . . Q .
+. . . . Q . . .
+. . . . . . . Q
+. Q . . . . . .
+. . . Q . . . .
+. . . . . Q . .
+. . Q . . . . .
+
+TEMPO: 0.0021  CONFLITO: 449  REINICIO: 0
+
+Execução 92
+
+TABULEIRO INICIAL:
+. . . . . . . .
+. . . . . . . .
+. Q . . Q . . Q
+Q . Q . . Q Q .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . Q . . . .
+
+TABULEIRO FINAL:
+. . . . Q . . .
+. Q . . . . . .
+. . . Q . . . .
+. . . . . . Q .
+. . Q . . . . .
+. . . . . . . Q
+. . . . . Q . .
+Q . . . . . . .
+
+TEMPO: 0.0040  CONFLITO: 505  REINICIO: 0
+
+Execução 93
+
+TABULEIRO INICIAL:
+. Q . . . . . .
+. . . . . . . .
+. . Q . . . . .
+. . . . Q . Q .
+. . . . . Q . .
+. . . . . . . .
+. . . . . . . .
+Q . . Q . . . Q
+
+TABULEIRO FINAL:
+. . . Q . . . .
+Q . . . . . . .
+. . . . Q . . .
+. . . . . . . Q
+. Q . . . . . .
+. . . . . . Q .
+. . Q . . . . .
+. . . . . Q . .
+
+TEMPO: 0.0090  CONFLITO: 1124  REINICIO: 3
+
+Execução 94
+
+TABULEIRO INICIAL:
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . Q . . .
+. Q Q . . . . Q
+. . . . . Q . .
+Q . . . . . Q .
+. . . Q . . . .
+
+TABULEIRO FINAL:
+. Q . . . . . .
+. . . . . Q . .
+Q . . . . . . .
+. . . . . . Q .
+. . . Q . . . .
+. . . . . . . Q
+. . Q . . . . .
+. . . . Q . . .
+
+TEMPO: 0.0050  CONFLITO: 1011  REINICIO: 2
+
+Execução 95
+
+TABULEIRO INICIAL:
+Q . . . . . . Q
+. . . . . . . .
+. Q Q . . . . .
+. . . . . . . .
+. . . Q Q . . .
+. . . . . . Q .
+. . . . . Q . .
+. . . . . . . .
+
+TABULEIRO FINAL:
+. . . Q . . . .
+. . . . . Q . .
+Q . . . . . . .
+. . . . Q . . .
+. Q . . . . . .
+. . . . . . . Q
+. . Q . . . . .
+. . . . . . Q .
+
+TEMPO: 0.0080  CONFLITO: 1630  REINICIO: 5
+
+Execução 96
+
+TABULEIRO INICIAL:
+. . . . . . . .
+. . . . . . Q .
+. . . . . . . .
+. . . . . . . .
+Q . . Q . . . Q
+. Q Q . . Q . .
+. . . . Q . . .
+. . . . . . . .
+
+TABULEIRO FINAL:
+. . . . . Q . .
+. . . Q . . . .
+. . . . . . Q .
+Q . . . . . . .
+. . . . . . . Q
+. Q . . . . . .
+. . . . Q . . .
+. . Q . . . . .
+
+TEMPO: 0.0020  CONFLITO: 449  REINICIO: 0
+
+Execução 97
+
+TABULEIRO INICIAL:
+. . . . . . . .
+. . . . . . . .
+. Q . . . . . .
+. . . . . . . Q
+. . . . . . Q .
+Q . Q . Q . . .
+. . . . . Q . .
+. . . Q . . . .
+
+TABULEIRO FINAL:
+. . . Q . . . .
+. . . . . . . Q
+Q . . . . . . .
+. . Q . . . . .
+. . . . . Q . .
+. Q . . . . . .
+. . . . . . Q .
+. . . . Q . . .
+
+TEMPO: 0.0191  CONFLITO: 3594  REINICIO: 9
+
+Execução 98
+
+TABULEIRO INICIAL:
+. . . . . . . .
+. . . . Q . . .
+Q . . . . . . Q
+. . . . . . . .
+. . . . . . Q .
+. . . . . Q . .
+. Q . . . . . .
+. . Q Q . . . .
+
+TABULEIRO FINAL:
+. . . . Q . . .
+. . Q . . . . .
+. . . . . . . Q
+. . . Q . . . .
+. . . . . . Q .
+Q . . . . . . .
+. . . . . Q . .
+. Q . . . . . .
+
+TEMPO: 0.0080  CONFLITO: 1461  REINICIO: 4
+
+Execução 99
+
+TABULEIRO INICIAL:
+. . . Q . Q . Q
+. Q Q . . . . .
+. . . . . . Q .
+. . . . . . . .
+Q . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . Q . . .
+
+TABULEIRO FINAL:
+. . . Q . . . .
+. Q . . . . . .
+. . . . . . Q .
+. . Q . . . . .
+. . . . . Q . .
+. . . . . . . Q
+Q . . . . . . .
+. . . . Q . . .
+
+TEMPO: 0.0010  CONFLITO: 225  REINICIO: 0
+
+Execução 100
+
+TABULEIRO INICIAL:
+. . . Q . . . .
+Q . . . . . . .
+. . . . . . . .
+. . Q . . . Q .
+. . . . Q . . .
+. Q . . . Q . Q
+. . . . . . . .
+. . . . . . . .
+
+TABULEIRO FINAL:
+. . . . Q . . .
+. . . . . . Q .
+Q . . . . . . .
+. . Q . . . . .
+. . . . . . . Q
+. . . . . Q . .
+. . . Q . . . .
+. Q . . . . . .
+
+TEMPO: 0.0210  CONFLITO: 3709  REINICIO: 12
+
+
+--- MÉDIAS ---
+Tempo médio: 0.0134s
+Conflitos médios: 2418.87
+Taxa de sucesso: 100.0%
