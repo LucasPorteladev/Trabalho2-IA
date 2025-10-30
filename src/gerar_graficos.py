@@ -114,7 +114,7 @@ def gerar_graficos(caminho_csv: str = None):
     plt.savefig(path, dpi=300)
     plt.close()
 
-    print(f"\n✅ Gráficos gerados em: {OUT_DIR}")
+    print(f"\n Gráficos gerados em: {OUT_DIR}")
     print("Arquivos:")
     for nome in [
         "taxa_sucesso.png",
